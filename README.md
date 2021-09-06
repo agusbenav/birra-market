@@ -5,3 +5,8 @@ https://www.mercadolibre.com.ar/
 https://www.craftsociety.com.ar/
 https://labirreria.com.ar/
 https://www.cervezaantares.com/
+
+Agustín Benavente Bojanich, 20 años, Vicente Lopez. Futuro Full web stacker.
+Lorenzo Rucci. 22 años de Palermo, Capital Federal. Estudiante de Administración de Empresas en la Universidad de Buenos Aires en 4to año.
+Fernanda Farias, 25 años de San Fernando, Buenos Aires. Analista de datos en course5i y estudiante de administracion de empresas en UADE.
+Cristina García. 30 años de Belgrado, Capital Federal. Administrador de empresas de la Universidad Alejandro de Humboldt (Caracas).
